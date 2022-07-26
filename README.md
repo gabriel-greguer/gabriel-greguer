@@ -1,9 +1,9 @@
-<h1 align="center">Oi, Eu sou o Gabriel Greguer</h1>
-<h3 align="center">Estudante de engenharia de computação e Desenvolvedor Web</h3>
+<h1 align="center">Hi, I'm Gabriel Greguer</h1>
+<h3 align="center">Computer engineering student and web developer</h3>
 
 - 🔭 I’m currently working on **NodeJs/Javascript Projects**
 
-- 🌱 I’m currently learning **NodeJs+ExpressJs**
+- 🌱 I’m currently learning **NodeJs and ReactJs**
 
 - 📫 How to reach me **gggreguer@gmail.com**
 
